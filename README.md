@@ -16,3 +16,4 @@
 
 ## Known Issue
 - Mouse input doesn't function after waking from system sleep.
+- Firefox right click window unexpectedly trun transparent due to the compositor. Should check picom to fix, in particular the man and the config.
