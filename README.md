@@ -1,4 +1,4 @@
-# My DWM Build
+# My dwm Build
 
 ## Changes
 - Fonts change to Jetbrains Mono Semibold:size=22
