@@ -5,7 +5,7 @@
 - Delete tags 5-9 since I rarely use them
 
 ## TODOs
-- Notifications with [Dzen2](https://wiki.archlinux.org/title/Dzen) or [Lemonbar](https://wiki.archlinux.org/title/Lemonbar)
+- Notifications with [Dzen2](https://wiki.archlinux.org/title/Dzen) or [Lemonbar](https://wiki.archlinux.org/title/Lemonbar). Maybe take a look for [Dunst](https://wiki.archlinux.org/title/Dunst)
 - Statusbar
     - Transparency 
     - Mouse on or click event for status on the right hand side. 
